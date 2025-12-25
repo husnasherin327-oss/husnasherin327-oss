@@ -24,9 +24,10 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=husnasherin327-oss&show_icons=true&theme=default" />
-</p>
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=husnasherin327-oss&show_icons=true&theme=default)
+
 ## 🤝 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/husna-sherin-764366280/

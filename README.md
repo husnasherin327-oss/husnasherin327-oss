@@ -12,28 +12,15 @@
 - 🧠 Strong foundation in statistics, data analysis, and ML algorithms
 - 🛠️ Hands-on experience with real-world datasets
 - 📚 Currently focusing on advanced ML and end-to-end projects
-## 🛠️ Skills & Tools
+## 🛠️ Tech Stack
 
-**Languages & Libraries**
-- Python, NumPy, Pandas
-- Matplotlib, Seaborn
-- Scikit-learn
+![Python](https://img.shields.io/badge/Python-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-black?logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikit-learn)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
 
-**Machine Learning**
-- Regression & Classification
-- Random Forest, SVM, KNN
-- Gradient Boosting, XGBoost (learning)
 
-**Data Skills**
-- Data Cleaning & EDA
-- Feature Engineering
-- Model Evaluation
-## 🗺️ Current Learning Focus
-
-- ✔️ Supervised Machine Learning
-- ✔️ Exploratory Data Analysis
-- 🔄 Model Optimization & Pipelines
-- 🔜 Deployment with Streamlit / Flask
 
 ## 📊 GitHub Stats
 
@@ -45,3 +32,26 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/husna-sherin-764366280/
 - 📧 Email: husnasherin327@gmail.com
 - 📊 Kaggle: https://kaggle.com/husnasherin
+  ## 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+</p>
+## 🧠 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+</p>
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal" />
+</p>
+## 📚 Learning Progress
+
+```text
+Python & EDA          ██████████████░░░░░ 75%
+Machine Learning     ███████████░░░░░░░░ 60%
+Model Optimization   ██████░░░░░░░░░░░░ 30%
+Deployment           ░░░░░░░░░░░░░░░░░░ 0%
+

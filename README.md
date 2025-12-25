@@ -35,17 +35,17 @@
   ## 🔥 Contribution Streak
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husnasherin327-oss&theme=default" />
 </p>
 ## 🧠 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=husnasherin327-oss&layout=compact" />
 </p>
 ## 📈 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=minimal" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=husnasherin327-ossE&theme=minimal" />
 </p>
 ## 📚 Learning Progress
 

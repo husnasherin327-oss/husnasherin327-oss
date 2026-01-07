@@ -48,11 +48,4 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=husnasherin327-ossE&theme=minimal" />
 </p>
-## 📚 Learning Progress
-
-```text
-Python & EDA          ██████████████░░░░░ 75%
-Machine Learning     ███████████░░░░░░░░ 60%
-Model Optimization   ██████░░░░░░░░░░░░ 30%
-Deployment           ░░░░░░░░░░░░░░░░░░ 0%
 

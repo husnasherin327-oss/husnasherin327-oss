@@ -19,6 +19,9 @@
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikit-learn)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?logo=uvicorn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 
 

@@ -1,17 +1,22 @@
 <h1 align="center">Hi 👋, I'm Husna Sherin</h1>
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast</h3>
+<h3 align="center">Aspiring Data Scientist | Machine Learning • NLP • Deep Learning Enthusiast</h3>
 
 <p align="center">
-📊 Turning data into insights • 🤖 Learning ML step-by-step • 🚀 Building real-world projects
+📊 Turning data into insights • 🤖 Learning AI step-by-step • 🚀 Building real-world ML, NLP & DL projects
 </p>
+
+---
 
 ## 👩‍💻 About Me
 
-- 🎓 Background in Mathematics & Computer Science
-- 📈 Passionate about Data Science and Machine Learning
-- 🧠 Strong foundation in statistics, data analysis, and ML algorithms
-- 🛠️ Hands-on experience with real-world datasets
-- 📚 Currently focusing on advanced ML and end-to-end projects
+- 🎓 Background in **Mathematics & Computer Science**
+- 📈 Passionate about **Data Science, Machine Learning, NLP & Deep Learning**
+- 🧠 Strong foundation in **Statistics, Linear Algebra, and ML Algorithms**
+- 🛠️ Hands-on experience with **real-world datasets and text data**
+- 📚 Currently focusing on **NLP pipelines, Deep Learning fundamentals & end-to-end AI projects**
+- 🎯 Goal: Build intelligent systems that understand data and human language
+
+---
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-blue?logo=python)
@@ -19,12 +24,23 @@
 ![NumPy](https://img.shields.io/badge/NumPy-blue?logo=numpy)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-orange?logo=scikit-learn)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green)
+
+![NLP](https://img.shields.io/badge/NLP-8E44AD)
+![spaCy](https://img.shields.io/badge/spaCy-09A3D5?logo=spacy&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-154F9C)
+
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?logo=uvicorn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+
 
 
 

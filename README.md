@@ -63,7 +63,7 @@
 
 ## 📌 Featured Projects
 
- 
+🔹 Life Expectancy prediction
 🔹 Log Parsing & Anomaly Detection using ML  
 🔹 ANN / CNN / RNN Implementations (PyTorch & TensorFlow)  
 🔹 LLM Applications using LangChain  

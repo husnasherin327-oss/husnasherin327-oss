@@ -30,9 +30,16 @@
 ![NLTK](https://img.shields.io/badge/NLTK-154F9C)
 
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00)
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
 
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
+
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2)
+
+![LangChain](https://img.shields.io/badge/LangChain-00A67E)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![Uvicorn](https://img.shields.io/badge/Uvicorn-4051B5?logo=uvicorn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
